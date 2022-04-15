@@ -124,11 +124,11 @@ class Select5 extends Tr5{
 		
 		if(check_s==true&&check_t==true) //모두 숫자로 이루어진 문자라면
 		{
-			return new Numcmp5(); //내부 클래스 Numcmp 객체 생성한뒤 cmp함수 호출
+			return new Numcmp5(); //지역클래스 Numcmp 객체 생성한뒤 cmp함수 호출
 		}
 		else
 		{
-			return new Strcmp5(); //내부 클래스 Strcmp 객체 생성한뒤 cmp함수 호출
+			return new Strcmp5(); //지역클래스 Strcmp 객체 생성한뒤 cmp함수 호출
 		}
 	}
 }
