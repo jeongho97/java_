@@ -83,7 +83,7 @@ class Select4 extends Tr4{
 			return result;
 		}
 	}
-	public Object check()
+	public Object check() //Object 타입은 최상위 타입이다
 	{
 		boolean check_s=false;
 		boolean check_t=false;
