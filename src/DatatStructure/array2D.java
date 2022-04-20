@@ -41,6 +41,7 @@ public class array2D {
 		
 		//출력 포맷
 		System.out.printf("%13s%9s%9s\n","1학기","2학기","평균");
+		System.out.println("=====================================");
 		
 		for(int i=0;i<r_row;i++)
 		{
