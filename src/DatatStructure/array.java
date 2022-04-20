@@ -1,8 +1,8 @@
-package java_programing;
+package DatatStructure;
 
 import java.util.Scanner;
 
-public class array_length {
+public class array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -24,7 +24,6 @@ public class array_length {
 		System.out.print("∆Ú±’¿∫ "+sum/intArray.length);
 		
 		scanner.close();
-
 	}
 
 }
