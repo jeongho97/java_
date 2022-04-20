@@ -8,7 +8,7 @@ public class array_length {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.println("5개의 정수를 입력하세요.");
+		System.out.println("5개의 정수를 입력하세요!.");
 		int intArray[]=new int[5];
 		
 		double sum=0.0;
